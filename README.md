@@ -1,3 +1,6 @@
+# Note
+
+Note: This git repo is currently outdated. See https://github.com/dtsudo/SuperTux-Advance-Web-Port for a more up-to-date build.
 
 # How to build the codebase
 
